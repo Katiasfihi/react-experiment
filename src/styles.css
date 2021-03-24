@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.style {
+  border: 2px solid red;
+  margin: 4px;
+  background-color: rgb(221, 204, 49);
+  border-radius: 20px;
+}
+
+.h3 {
+  text-align: center;
+  margin: auto;
+}
+
+.red {
+  color: red;
+  font-size: 20px;
+}
